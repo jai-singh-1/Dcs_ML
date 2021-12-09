@@ -133,7 +133,7 @@ pycryptodomex==3.11.0
 pycurl==7.43.0.6
 pydantic==1.8.2
 
-pyodbc===4.0.0-unsupported
+
 
 pyreadline==2.1
 
