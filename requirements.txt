@@ -30,7 +30,7 @@ comtypes==1.1.10
 
 
 
-conda-verify==3.4.2
+
 constantly==15.1.0
 construct==2.10.67
 
