@@ -142,7 +142,7 @@ pysnmp==4.4.12
 
 pytest==6.2.4
 
-pywin32==228
+
 pywin32-ctypes==0.2.0
 pywinpty==0.5.7
 PyYAML==5.4.1
