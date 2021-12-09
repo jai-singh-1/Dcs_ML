@@ -196,7 +196,7 @@ wincertstore==0.2
 wrapt==1.12.1
 xgboost==1.3.3
 
-xlwings==0.24.7
+
 xlwt==1.3.0
 
 yarg==0.1.9
